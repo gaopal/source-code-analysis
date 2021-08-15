@@ -1,0 +1,10 @@
+{
+  "name" : "notes",
+  "fileExtension" : ".md",
+  "autoUploadInsertedImageKey" : "Mweb-OSS-oss-cn-shanghai",
+  "autoUploadInsertedImage" : true,
+  "folderType" : 10,
+  "mediaFloder" : "media",
+  "orderBy" : 0,
+  "newlinesToBR" : 0
+}
